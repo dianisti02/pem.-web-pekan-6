@@ -1,4 +1,4 @@
 # pem.-web-pekan-6
-image picker
-login authentication
-form validation
+image picker,
+login authentication,
+form validation.
